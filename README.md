@@ -1,6 +1,9 @@
 # Folder Comparer
 A basic console application that compares the first level of files and directories between two directories.
 
+## Install
+Make sure to download the most recent release on our ["Releases"](https://github.com/ZuluNiner/FolderComparer/releases) page
+
 ## Usage
 This application asks for two folders, after verifying the folders exist it begins checking the first level directory structure for all files and directories before comparing the two folders and creating a results.txt file with any discrepencies.
 
