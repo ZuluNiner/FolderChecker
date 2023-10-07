@@ -1,0 +1,15 @@
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\bin\Release\net6.0\FolderComparer.exe
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\bin\Release\net6.0\FolderComparer.deps.json
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\bin\Release\net6.0\FolderComparer.runtimeconfig.json
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\bin\Release\net6.0\FolderComparer.dll
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\bin\Release\net6.0\FolderComparer.pdb
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\obj\Release\net6.0\FolderComparer.csproj.AssemblyReference.cache
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\obj\Release\net6.0\FolderComparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\obj\Release\net6.0\FolderComparer.AssemblyInfoInputs.cache
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\obj\Release\net6.0\FolderComparer.AssemblyInfo.cs
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\obj\Release\net6.0\FolderComparer.csproj.CoreCompileInputs.cache
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\obj\Release\net6.0\FolderComparer.dll
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\obj\Release\net6.0\refint\FolderComparer.dll
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\obj\Release\net6.0\FolderComparer.pdb
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\obj\Release\net6.0\FolderComparer.genruntimeconfig.cache
+C:\Users\rottj\source\repos\FolderComparer\FolderComparer\obj\Release\net6.0\ref\FolderComparer.dll
